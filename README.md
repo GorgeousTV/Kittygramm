@@ -10,6 +10,8 @@
 
 #### Так как работа выполнялась командой, то список найденных багов у каждого свой. Вот те баги, которые нашёл я: [ссылка на YouTrack](https://gorgeous.youtrack.cloud/projects/191a821f-51c7-493b-8af6-491f672e1845)
 
+![багкошки](https://github.com/GorgeousTV/Kittygramm/assets/144271169/521fc1ee-7a6b-454f-a322-86e40c4c9d28)
+
 #### Диаграмма количества и критичности найденных багов:
 
 ![Киттиграмм](https://github.com/GorgeousTV/Kittygramm/assets/144271169/c686c0b0-eaed-4035-8bd6-e43e668b2d0e)
